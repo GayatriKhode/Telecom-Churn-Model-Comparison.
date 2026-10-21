@@ -1,0 +1,1 @@
+Logistic Regression performed better based on F1-score (0.5960) on this test split. Review recall and ROC-AUC as well before selecting a final model.
